@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tasks>
+	<!--<task>
+		<id>oracle表名称</id>
+		<hive_id>oracle表名称</hive_id>
+		<dbname>表所在数据库名称</dbname>
+		<script>定时任务所在文件</script>
+		<isIncre>1，全量导入(清空表再导入)，2：增量导入</isIncre>
+		<schedule>定时任务表达式（可以不写暂时，已由runtime标签代替）</schedule>
+		<desc>hive sql的名称（后台需要通过这个名称去拿到执行hive指定hive脚本的命令行语句）</desc>
+		<runTime>值可以是日，月**（**为月几号如月一号就是01）周*（*为一二三..日）</runTime>
+		<runHiveTimes>失败后重试的次数</runHiveTimes>
+		<logPath>产生日志文件的目录</logPath>
+	</task>-->
+	<!-- 测试数据简单推送（跑脚本、oracle建表、推数据、1） -->
+</tasks>
